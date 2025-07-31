@@ -1,4 +1,4 @@
 const m = "mercado pago";
 const p = "pagamento";
-cont d = "devedor";
+const d = "devedor";
 console.log(m);
